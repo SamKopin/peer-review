@@ -1,0 +1,50 @@
+header {
+    text-align: center;
+    background-color: #0F6105;
+    color: #de9607;
+    padding: 5px;
+    font-size: xx-large;
+}
+
+body{
+    background-color: #3D443C;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*nav CSS same on each page*/
+nav {
+    background-color: #6c6c6c;
+    color: #de9607;
+    line-height: 30px;
+    float: left;
+    padding: 5px;
+    text-align: left;
+  }
+ h2,
+ h3,
+  h4,
+  h5 {
+    text-align: center;
+    font-size: xx-large;
+    color: #de9607;
+  }
+  table,
+  td,
+  th {
+    border: 3px solid #6c6c6c;
+    text-align: center;
+    font-size: large;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  footer{
+    padding: 5px;
+    background-color: #0F6105;
+    color: #de9607;
+  }
